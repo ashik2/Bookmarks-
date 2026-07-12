@@ -1,0 +1,6 @@
+{
+  "name": "Bookmarks",
+  "description": "A minimalist, lightweight bookmark app featuring a grid layout, dark mode, quick saving via share intent, and browser selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
